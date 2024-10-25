@@ -1,0 +1,5 @@
+com\accessmanagement\ApprovalServlet.class
+com\accessmanagement\LoginServlet.class
+com\accessmanagement\RequestServlet.class
+com\accessmanagement\SignUpServlet.class
+com\accessmanagement\SoftwareServlet.class
